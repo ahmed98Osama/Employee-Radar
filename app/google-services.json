@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "235817005693",
+    "firebase_url": "https://atms2-eccd2-default-rtdb.firebaseio.com",
+    "project_id": "atms2-eccd2",
+    "storage_bucket": "atms2-eccd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235817005693:android:b6f2b0fe0ca880ce8b7714",
+        "android_client_info": {
+          "package_name": "com.empRadar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235817005693-k88rl02g6slqitpm54dj3fphm319nvj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kqigY19mf_fQ_PV69bj_swNL2Mt556Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235817005693-k88rl02g6slqitpm54dj3fphm319nvj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235817005693:android:eaf769bae42b204d8b7714",
+        "android_client_info": {
+          "package_name": "com.example.atms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235817005693-k88rl02g6slqitpm54dj3fphm319nvj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kqigY19mf_fQ_PV69bj_swNL2Mt556Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235817005693-k88rl02g6slqitpm54dj3fphm319nvj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
