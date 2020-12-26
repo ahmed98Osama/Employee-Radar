@@ -187,19 +187,19 @@ public class LeavingRequest extends Fragment {
             messageStatus.setText("null");
             messageStatus.setTextColor(Color.GRAY);
         }
-        else if (messageStatusST.equals("1") && isAdded())
+        else if (messageStatusST.equals("0") && isAdded())
         {
             messageStatus.setText("Watting");
             messageStatus.setTextColor(Color.YELLOW);
 
         }
-        else if (messageStatusST.equals("2") && isAdded())
+        else if (messageStatusST.equals("1") && isAdded())
         {
             messageStatus.setText("Aceepted");
             messageStatus.setTextColor(Color.GREEN);
 
         }
-        else if (messageStatusST.equals("3") && isAdded())
+        else if (messageStatusST.equals("2") && isAdded())
         {
             messageStatus.setText("refused");
             messageStatus.setTextColor(Color.RED);
@@ -213,7 +213,7 @@ public class LeavingRequest extends Fragment {
                     message = messageEditText.getText().toString();
                     database = FirebaseDatabase.getInstance();
                     myRef = database.getReference("Requests").child(idGet);
-                    myRef.child("status").setValue("1");
+                    myRef.child("status").setValue("0");
                     myRef.child("name").setValue(nameGet);
                     myRef.child("id").setValue(idGet);
                     myRef.child("message").setValue(message);
