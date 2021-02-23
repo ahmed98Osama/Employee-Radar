@@ -5,9 +5,9 @@
 ## Features
 
 	1.Auth 
-		-Login
-		-Register
-		-ForgetPassword
+		1.Login
+		2.Register
+		3.ForgetPassword
 	2.Show User Information
 	3.Check in and out time
 	4.Update some user information
