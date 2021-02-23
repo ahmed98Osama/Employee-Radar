@@ -21,7 +21,7 @@
 
 
  
-## this application for user side only
+## This application for user side only
 
 To run application download the apk " apk for Testers.apk" then install it on any android device more than 5.0 .
 	 
