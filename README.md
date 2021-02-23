@@ -1,8 +1,8 @@
 # Employee-Radar
 
-A small system to track employee on distance.
+>A small system to track employee on distance.
  
-## Feateures
+## Features
 
 	1.Auth 
 		-Login
@@ -13,7 +13,7 @@ A small system to track employee on distance.
 	4.Update some user information
  
  
-## technologies used 
+## Technologies used 
 
 	1.java + XML 
 	2.glide
@@ -26,5 +26,3 @@ A small system to track employee on distance.
 To run application download the apk " apk for Testers.apk" then install it on any android device more than 5.0 .
 	 
 To debug the source code download android studio then  open project and chosse project folder .
-
-     
