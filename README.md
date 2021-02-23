@@ -4,13 +4,13 @@ A small system to track employee on distance.
  
 #  Feateures
 
-1.Auth 
-	1.Login
-	2.Register
-	3.ForgetPassword
-2.Show User Information
-3.Check in and out time
-4.Update some user information
+	1.Auth 
+		1.Login
+		2.Register
+		3.ForgetPassword
+	2.Show User Information
+	3.Check in and out time
+	4.Update some user information
  
  
 #  technologies used 
