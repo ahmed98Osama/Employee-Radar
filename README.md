@@ -2,7 +2,7 @@
 
 	A small system to track employee on distance.
  
-	#  Feateures
+	# Feateures
 
 		 1.Auth 
 			  1.Login
@@ -13,7 +13,7 @@
 		 4.Update some user information
  
  
-	#  technologies used 
+	# technologies used 
 
     1.java + XML 
 	   2.glide
@@ -21,7 +21,7 @@
 
 
  
-	#  this application for user side only
+	# this application for user side only
 
 	 	To run application download the apk " apk for Testers.apk" then install it on any android device more than 5.0 .
 	 
